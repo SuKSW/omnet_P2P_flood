@@ -14,5 +14,5 @@
 simple Node
 {
     parameters:
-        @display("i=misc/node_vs");
+        double address;
 }
